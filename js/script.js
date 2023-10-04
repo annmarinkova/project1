@@ -15,7 +15,7 @@ alert(`Hello, ${user}!`);
 console.log(18 + + '2');
 console.log(100 + + '4');
 
-let incr = 10,
+let incr = 12,
 	decr = 10;
 // incr++;
 // decr--;
