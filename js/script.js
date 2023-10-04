@@ -16,7 +16,7 @@ console.log(18 + + '2');
 console.log(100 + + '4');
 
 let incr = 12,
-	decr = 10;
+	decr = 12;
 // incr++;
 // decr--;
 console.log(incr++);
